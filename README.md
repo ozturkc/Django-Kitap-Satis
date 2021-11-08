@@ -1,1 +1,1 @@
-# Django-Kitap-Satis
+# Django Kitap Satis Projesi
